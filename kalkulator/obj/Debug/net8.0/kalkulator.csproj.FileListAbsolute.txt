@@ -1,0 +1,14 @@
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\bin\Debug\net8.0\kalkulator.exe
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\bin\Debug\net8.0\kalkulator.dll
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.dll
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+D:\VISUAL STUDIO CODE\PRAKTIKUM_CS_24_05\PROJECT\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
